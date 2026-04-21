@@ -11,8 +11,8 @@ The system is designed to:
 - Minimize injection cost and violation risk
 
 Main Codes: 
--CY_DBP_v1_booste_scheduling.m
--CY_DBP_v1_booster_placement_code.m
+- CY_DBP_v1_booste_scheduling.m
+- CY_DBP_v1_booster_placement_code.m
 
 ---
 
