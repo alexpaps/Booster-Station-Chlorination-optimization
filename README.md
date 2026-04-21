@@ -10,6 +10,10 @@ The system is designed to:
 - Maintain chlorine concentration within safe operational bounds
 - Minimize injection cost and violation risk
 
+Main Codes: 
+-CY_DBP_v1_booste_scheduling.m
+-CY_DBP_v1_booster_placement_code.m
+
 ---
 
 ## Project Structure
